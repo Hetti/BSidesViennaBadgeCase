@@ -1,0 +1,29 @@
+All Measurements are tight!
+
+PCB:
+
+Breit: 24.9mm Länge: 40.0mm Edge Cut-off: 2mm Triangle.
+
+USB Socket:
+
+Wide: 13.3mm Height: 9.75mm Collar width: 0.03mm (Subtract from length.) Widht 14.55mm with Collar
+
+Plug: w: 12.1mm H: 8.55mm
+
+Overall: L: 63.2mm
+
+Plug Inset: 12.8mm
+
+Case length Overall:
+
+Overall Length - Plug-Inset - Socket-Collar: 63.2 -12.8 -0.03
+
+50.37mm
+
+Traktor holes diameter: 3.5mm
+
+Space between PCB and Plug-Inset Max: 2.5mm = MAX Wall thickness!
+
+Outer Measures: Including Plug and solder Pins: 10.7mm
+
+Solder pin height: 2.1mm
