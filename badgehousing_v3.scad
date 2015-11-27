@@ -1,6 +1,5 @@
 bodenplatte = [48.3,27.9,8];
 bodenplatte2 = [41,25.9,6];
-bodenplatte3 = [42,43.9,3.5];
 USBPort = [5.2,13.5,5.6];
 USBPlug = [5,12.4,4.4];
 ausschnitt = [8.5,15,2.1];
